@@ -15,11 +15,4 @@
     <copyright>Copyright 2017</copyright>
     <tags>ImageProcessor Plugin PDF Fileformat convert GhostScript thumbnail PDFs</tags>
   </metadata>
-  <files>
-    <file src="bin\Release\net45\ImageProcessor.Plugins.Pdf.dll" target="lib\net45\ImageProcessor.Plugins.Pdf.dll" />
-    <file src="bin\Release\net45\ImageProcessor.Plugins.Pdf.pdb" target="lib\net45\ImageProcessor.Plugins.Pdf.pdb" />
-    <file src="bin\Release\net45\ImageProcessor.Plugins.Pdf.xml" target="lib\net45\ImageProcessor.Plugins.Pdf.xml" />
-    <!-- The current release as added automatically, except for the PDB -->
-    <file src="bin\Release\net461\ImageProcessor.Plugins.Pdf.pdb" target="lib\net461\ImageProcessor.Plugins.Pdf.pdb" />
-  </files>
 </package>
